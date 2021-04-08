@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Ej_1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="123"/>
+        <CursorPos X="80" Y="139"/>
+        <FoldState Value=" T3D0O1d"/>
+        <UsageCount Value="22"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="5" HistoryIndex="4">
+      <Position1>
+        <Filename Value="Ej_1.pas"/>
+        <Caret Line="17" Column="70"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Ej_1.pas"/>
+        <Caret Line="107" Column="13" TopLine="80"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Ej_1.pas"/>
+        <Caret Line="140" Column="21" TopLine="113"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Ej_1.pas"/>
+        <Caret Line="100" Column="13" TopLine="82"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Ej_1.pas"/>
+        <Caret Line="121" Column="26" TopLine="100"/>
+      </Position5>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
