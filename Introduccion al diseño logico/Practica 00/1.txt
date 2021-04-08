@@ -1,0 +1,10 @@
+    unsigned potencia=32768;//65536 //; //ahora se realiza el cambio de base
+    unsigned aux;
+    int i;
+    unsigned fraccional=0;
+    for(i=0;i<5;i++){
+        aux = dig[i];
+        fraccional += (dig[i] * potencia);
+        potencia=potencia/2;
+    }
+    return fraccional;

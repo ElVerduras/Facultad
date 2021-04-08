@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1617048251 source:c:\users\daniu\documents\facultad\intro. al diseno logico\entrega 0\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
