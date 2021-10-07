@@ -1,0 +1,50 @@
+1.
+Clases: +Escuadron de tanques
+	+Campo de Batalla
+		+Atributos:
+		-AreaX [0..600]
+		-AreaY [0..800]
+		+Comportamientos:
+
+	+Tanque
+		+Atributos:
+		-Energía [0..100]
+		-Equipo
+		-Deshabilitado
+		-Direccion
+		-PosicionX [0..600]
+		-PosicionY [0..800]
+		+Comportamientos:
+		-setDireccion
+		-mover
+		-deshabilitar
+		-tocado
+		
+
+	+torreta
+		+Atributos:
+		-PosicionX [0..600]
+		-PosicionY [0..800]
+		+Comportamientos:
+		-setPos
+		-disparar
+		
+
+	+Bala
+		+Atributos:
+		-Calibre
+		-PosicionX [0..600]
+		-PosicionY [0..800]
+		+Comportamientos:
+		-setCalibre
+
+	+Radar
+		+Atributos:
+		-Angulo
+		
+		+Comportamientos:
+		-Detectar
+		-Mostrar
+
+		
+	
